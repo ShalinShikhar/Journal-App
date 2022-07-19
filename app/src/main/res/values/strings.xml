@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Journal</string>
+    <string name="Journals">Journals</string>
+    <string name="greatful_text">What are you grateful for today ?</string>
+    <string name="get_started_text">Get Started</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">LOGIN</string>
+    <string name="or_text">OR</string>
+    <string name="createAccount_text">CREATE ACCOUNT</string>
+    <string name="username_hint">Username</string>
+    <string name="Title">Title</string>
+    <string name="Thoughts">Your Thoughts</string>
+    <string name="save_button">Save</string>
+    <string name="menu_title">Add Thought</string>
+    <string name="signout">Sign Out</string>
+    <string name="no_thoughts_hint">Write a Journal Entry by clicking the \"+\" icon</string>
+</resources>
